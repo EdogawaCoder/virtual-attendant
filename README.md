@@ -1,5 +1,3 @@
-Virtual Attendant
-
 # Overview
 This project simulates a simple command-line virtual attendant that integrates with the OpenAI API (GPT models).
 It was built as part of a personal study project to understand API integration, JSON/XML serialization, and user interaction through the Java console.
